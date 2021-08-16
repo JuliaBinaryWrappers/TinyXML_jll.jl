@@ -1,0 +1,288 @@
+[[TinyXML]]
+arch = "aarch64"
+git-tree-sha1 = "81ef0fe75b9b6978728930b26dfbbf30801ad451"
+os = "macos"
+
+    [[TinyXML.download]]
+    sha256 = "56eb9397d986e19393091b1e8e7431b07198d482836abc35b7155b21b1b35fff"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.aarch64-apple-darwin.tar.gz"
+[[TinyXML]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe30445163898b5be64fba535a673c57d4e8ec76"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "d7413e56d046f372bdd9f7ebbc42745cf79dcaacef7d42564860a12f277ef1ec"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[TinyXML]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6156a1a31afbb4d41c0a1edf8dbc86f7fafff36"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "08e0395ab7298a9e3aedaa674f6c7e5a15d333f2e8c0146f1cccc49714729c84"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[TinyXML]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "957474c693ff9f97dd4df953d3d574538d600597"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "4a6c0a5baa965a5da756640a31e9918a59109d8064d9395a24367dc822b93580"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.aarch64-linux-musl-cxx03.tar.gz"
+[[TinyXML]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b247b7022f1ebecd9ccc14d41e5708ab84f1f1d2"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "9d4d339b3ecd89c1648493740ac35bf6f5427d0d27d524db64a7c08475d74305"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.aarch64-linux-musl-cxx11.tar.gz"
+[[TinyXML]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59f91ef982ae48010f225fa8d8893f6ae2f4637c"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "98a352b488773880e4ca74317276a41dc3a882e423e4840e71f80bce8d9a10bf"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[TinyXML]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e3c81d2a29c3fbb26a7113b0aabd56c5a5a7e95"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "0c624bc74b014a81d663e2fee84fcd4554c8ae3584e70a96d5bb9acfb2eeba99"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[TinyXML]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba54811546fe7bc6f53a31aed3bd4de3961b381e"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "48037243742e09fdac736a3078f9940266a617b65bfb920411ea9327b6aec24b"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[TinyXML]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a98ea09f8f7e11ee191d4db88d797e1f11367e81"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "3f8a314e40ceca4425596bcb5f75301c172b87acaf5efa7f8f8895f29c0d8da9"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[TinyXML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "413af311e7cffb69b9c88e90959383fd5b3d2695"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "555dc69aba8cb4a24d8b45a66e7b74da407658b55ee67ecbccd07b9a104d68fd"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[TinyXML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc5c18c0e60a1af0b43aa7193694468cd1151c20"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "04fcb60727f67faaf16efc6bf52242e8c78a853c760b454428b5d65ef1a79420"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[TinyXML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b61bc69ed615abb3182e82b230f93973d267eeb"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "0728a87ba5fb18cfb4ee15d03332f502b37f990acc684f97c2aeadc11926be62"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[TinyXML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38ab1b0cfd4a73573a61b623840b293920e0943f"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "35936b5e883ab1baa3415492f930a911cd27f6ca38f82f2182b6433b35ef41cf"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "330ad32355eca45316fb2e79adbe32580bd1b5a0"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "b68b11af5420596a8e554373404cb899bffa36bb4334a5b4528c852c68e317f4"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-linux-gnu-cxx03.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3698b5782d7183f2a787e2c270c6befc06601b45"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "413494ebe228d7e2742d2bf2ebc053a7ad70daa85afdcbeb0580398306cb58a4"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-linux-gnu-cxx11.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "608fc603d9de4af4cd02fcec7349be82418fc78e"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "8bc94ac18f874b29eff44bc8d3e2fcfa899c2be21edc8ed88f02928ca3c7fed2"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-linux-musl-cxx03.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27fcc7e1da07f2aa30a02d7b1612c7b0c938f573"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "4e9869f073eaf481e9f3ec2f7f921f3ec24ed543dfdabf09e0f4802a08aec419"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-linux-musl-cxx11.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f0d3ed42d1c67bc8cd9f157ee81158fbb7d67ca3"
+os = "windows"
+
+    [[TinyXML.download]]
+    sha256 = "68738819327d760d903b169350a1d782247fe560c5038517f8dd9c394e27c9ef"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-w64-mingw32-cxx03.tar.gz"
+[[TinyXML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b4f599043191a9731f5d0d258fa79995cf89680"
+os = "windows"
+
+    [[TinyXML.download]]
+    sha256 = "a409aa898813d6eb080d873fb35c13b658e065b26dc2975f8c05e40cc691940a"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.i686-w64-mingw32-cxx11.tar.gz"
+[[TinyXML]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6bb2d86ebebc8bec5cf7dd26e06c35f4cee1f089"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "b07657bcb373f22328bccc13430577653404fd64b66c33c6fd7198286199d3a1"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[TinyXML]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01ba1fdbc09b761ef3d492ef2d48681e69682b42"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "24c985bdcb1fd604792d19194e011ff4654cccda901b6270c63395ceeba61953"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+git-tree-sha1 = "4ee93337d9c822ba741981bd9cb43b2c276b85b3"
+os = "macos"
+
+    [[TinyXML.download]]
+    sha256 = "ce2e43878f75aab2c18e0374c72f01c8a21a704589499f179c1c623b4ac82110"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-apple-darwin.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e49d4c3efde1cfff340b3b74b44b1346e1d2d95a"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "778844b95677cbb8f571b8e5598e07f9a696cc5ef409d4b94aa51de32432b089"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7982ab8948d7f98c5e5818846038fd46ceb3ca84"
+libc = "glibc"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "0b2baf7761133d5be8ee5545f2a5e2f57430811f888394c63e736a5df3a6e05a"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6101f95ec1129870e434614e661e6127211a6eb2"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "57bb89221bf3f1c26f078af88e8daaa2dfc8fb382e7a866b6d4df94a0841b8fe"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-linux-musl-cxx03.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dea19eb8d0d22ec21ebe4da81128e23f395fb886"
+libc = "musl"
+os = "linux"
+
+    [[TinyXML.download]]
+    sha256 = "8bc788f780ee74df4350920c5f48cd8e533f2c3019c78298ffbe28a7ac5563bb"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-linux-musl-cxx11.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+git-tree-sha1 = "c20e8e9f790020834520d9bd7dc15fc858d9bd8d"
+os = "freebsd"
+
+    [[TinyXML.download]]
+    sha256 = "ca7e09d5a48281dcb65a79e11b1021f633a99c201cc55484df3e0ddc248a9403"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-unknown-freebsd.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e43e964892418f8ce3df57f534b198edd2311002"
+os = "windows"
+
+    [[TinyXML.download]]
+    sha256 = "a2c9713a746fa7d0c64a3e5cdf576ff6479713a21a49ec6257a13103cf4f01b9"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[TinyXML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b5df16cc21514003b73f54e975bfc98a471891c"
+os = "windows"
+
+    [[TinyXML.download]]
+    sha256 = "b90d9d42dece88a46e191bd97bdc6d4e483f276842a6d6186ce5c45443db2855"
+    url = "https://github.com/JuliaBinaryWrappers/TinyXML_jll.jl/releases/download/TinyXML-v2.6.2+0/TinyXML.v2.6.2.x86_64-w64-mingw32-cxx11.tar.gz"
